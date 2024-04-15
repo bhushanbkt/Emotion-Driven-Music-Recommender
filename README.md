@@ -23,3 +23,12 @@ SPOTIFY_CLIENT_SECRET = 'your_client_secret'
 
 #Run the Streamlit application:
 streamlit run main.py
+```
+
+This application uses the following libraries:
+
+Streamlit
+OpenCV
+NumPy
+RMN
+Spotipy
