@@ -2,6 +2,8 @@
 
 This is a Streamlit web application that captures images from the webcam, detects emotions in the captured images, and recommends songs based on the detected emotions using the Spotify API.
 
+![Screenshot (291)](https://github.com/bhushanbkt/Webcam-Emotion-Detector-with-Spotify-Recommendations/assets/91175596/202cfaa5-23b1-4161-b27c-2e2317824953)
+
 ## Installation
 
 1. Clone the repository: https://github.com/bhushanbkt/Webcam-Emotion-Detector-with-Spotify-Recommendations
@@ -9,7 +11,8 @@ This is a Streamlit web application that captures images from the webcam, detect
 3. 
 4. 3. Install the dependencies: requirements.txt
   
-  
+  ![Screenshot (292)](https://github.com/bhushanbkt/Webcam-Emotion-Detector-with-Spotify-Recommendations/assets/91175596/ef7487d0-d041-4445-9fc2-ae5adfa7260d)
+
 ## Usage
 
 1. Fill in the Spotify credentials:
